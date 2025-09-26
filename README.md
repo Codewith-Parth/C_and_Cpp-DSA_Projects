@@ -1,2 +1,2 @@
-# C-C-projects
+# C projects
 Practice codes, Basic projects
